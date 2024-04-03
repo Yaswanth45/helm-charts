@@ -3,7 +3,17 @@ entries:
   argo-testing:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-03T15:19:31.906799+05:30"
+    created: "2024-04-03T15:24:54.748518+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 478bfaff3eaa32a0f09275d7c6dbf323ccf2a060a126885f4f0531ded7459165
+    name: argo-testing
+    type: application
+    urls:
+    - https://Yaswanth45.github.io/helm-charts/argo-testing-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-03T15:24:54.748066+05:30"
     description: A Helm chart for Kubernetes
     digest: 19378a5628efcc46258c0fd20a8ddd95d5f4ab117a3df494865989349778583b
     name: argo-testing
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-03T15:19:31.906228+05:30"
+    created: "2024-04-03T15:24:54.747511+05:30"
     description: A Helm chart for Kubernetes
     digest: 27168be6d3d1390bd0910284cc27c4c4737ea36d4cdf53ecaefd83ece1459a7e
     name: argo-testing
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://Yaswanth45.github.io/helm-charts/argo-testing-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-03T15:19:31.905108+05:30"
+generated: "2024-04-03T15:24:54.746221+05:30"
