@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  argocd-test:
+  - apiVersion: v2
+    created: "2024-04-03T13:52:15.709169+05:30"
+    digest: 280c62b953a01899b00bc87575ff3e122e8de6d9e23cd5254868b29a556cc0e1
+    maintainers:
+    - name: test
+    name: argocd-test
+    urls:
+    - https://Yaswanth45.github.io/helm-charts/argocd-test-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-04-03T13:52:15.708244+05:30"
